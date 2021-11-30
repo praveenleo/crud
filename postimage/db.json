@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "firstName": "ram",
+      "lastName": "kumar",
+      "email": "ram@mail.com",
+      "mobileNumber": 55454,
+      "salary": "5000",
+      "image": "",
+      "technology": [
+        {
+          "technology": "ssssss",
+          "rating": ""
+        }
+      ],
+      "id": 1
+    },
+    {
+      "firstName": "ram",
+      "lastName": "kumar",
+      "email": "ram@mail.com",
+      "mobileNumber": 55454,
+      "salary": "5000",
+      "image": "",
+      "technology": [],
+      "id": 2
+    },
+    {
+      "firstName": "ram",
+      "lastName": "kumar",
+      "email": "ram@mail.com",
+      "mobileNumber": 55454,
+      "salary": "5000",
+      "image": "",
+      "technology": [
+        {
+          "technology": "angular",
+          "rating": ""
+        },
+        {
+          "technology": "",
+          "rating": ""
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
